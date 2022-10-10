@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![GitHub followers](https://img.shields.io/github/followers/rogierz?label=GitHub%20followers&style=for-the-badge)](https://github.com/rogierz)
+
+[![Github stats](https://github-readme-stats.vercel.app/api?username=rogierz&count_private=true&include_all_commits=true&theme=aura_dark)]()
